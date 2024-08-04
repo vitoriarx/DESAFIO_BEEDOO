@@ -139,3 +139,5 @@ Funcionalidade: Listar todos os cursos da plataforma
 ---
 ### Evidências dos Bugs 
 [Evidência de Bugs](https://drive.google.com/drive/folders/1_AGZJuHHkFsPNwoTa1Q1VVq7ctYNZKgt?usp=sharing)
+
+- Para o relato de bugs eu utilizei tabelas para focar na organização, nesse formato eu posso fornecer um resumo dos principais bugs encontrados, uma descrição detalhada e recomendações. 
