@@ -22,7 +22,7 @@ T - Testável (Testable)
 Deve fornecer informações necessárias para os testes. 
 
 ---
-### User Story da funcionalide de cadastrar curso: 
+### User Story da funcionalidade de cadastrar curso: 
 #language: pt
 
 #autor: Vitória Melo
@@ -64,7 +64,7 @@ Funcionalidade: Cadastrar curso
         Quando for inserida a data de início como "25/12/2023" e data de término como "28/12/2023"
         Então o sistema deve exibir uma mensagem de erro "As datas inseridas já passaram." 
 
-### User Story da funcionalide de excluir curso: 
+### User Story da funcionalidade de excluir curso: 
 
 #language: pt
 
@@ -90,7 +90,7 @@ Funcionalidade: Excluir curso
         Quando ele tentar excluir um curso novamente
         Então o sistema deve exibir uma mensagem de erro "O curso já foi excluído."
 
-### User Story da funcionalide de listar curso: 
+### User Story da funcionalidade de listar curso: 
 
 #language: pt
 
@@ -113,7 +113,23 @@ Funcionalidade: Listar todos os cursos da plataforma
         Então irá aparecer todos os cursos disponíveis. 
 
     
-    Cenário: Listar cursos sem nenhum curso castrado
+    Cenário: Listar cursos sem nenhum curso cadastro
         Quando o administrador ou usuário clicar em "Listar cursos"
         E não tiver nenhuma curso diponível 
         Então uma mensagem será exibida "Ainda não temos cursos disponíveis. Volte depois!"
+
+
+--- 
+### Casos de Teste: 
+[Casos de teste](https://docs.google.com/document/d/1B8mPKV_JYWNbmHBLWkAbQ8HturC9XXPkQ_u-9iUppgo/edit?usp=sharing)
+
+--- 
+### Relatório de Bugs: 
+[Relatórios de Bugs](https://docs.google.com/document/d/1zy02P84SywxVJHZs5T0enumZGPl7-xpGtnzEoZNnKvk/edit?usp=sharing) 
+
+---
+### Casos de Uso: 
+
+[Casos de uso](https://docs.google.com/document/d/1P1TB2mwKWZ5WcgP_bZRcw1bW7GK1jMuKI8ttuEzQMRc/edit?usp=sharing)
+
+
