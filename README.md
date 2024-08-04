@@ -132,4 +132,10 @@ Funcionalidade: Listar todos os cursos da plataforma
 
 [Casos de uso](https://docs.google.com/document/d/1P1TB2mwKWZ5WcgP_bZRcw1bW7GK1jMuKI8ttuEzQMRc/edit?usp=sharing)
 
+--- 
+### Evidências dos casos de testes: 
+[Evidências dos casos de teste](https://drive.google.com/drive/folders/13xRUKGrBQokIVwUywpQdo9fOBEdCEwRf?usp=sharing)
 
+---
+### Evidências dos Bugs 
+[Evidência de Bugs](https://drive.google.com/drive/folders/1_AGZJuHHkFsPNwoTa1Q1VVq7ctYNZKgt?usp=sharing)
